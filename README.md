@@ -1,2 +1,2 @@
 # testando
- Apenas estudando como funciona o git
+ Apenas estudando como funciona o git (=
